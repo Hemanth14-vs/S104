@@ -1,2 +1,0 @@
-“Hi GIT” Echo “Hi GIT”
-“Hi GIT” Echo “Hi GIT”
